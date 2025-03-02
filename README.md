@@ -1,8 +1,7 @@
-# zkBitcoin-Miner-Mainnet-Source-Code
- The source code for zkBitcoin Miner is here
-Grab the Folder zkBitcoin Miner- Release Ready - Mainnet v05
+# BasedWorkToken-Miner-Mainnet-Source-Code
+ This is the build code for the source of Miner
 
-Then do this script
+ Grab our source from Github @ https://github.com/BasedWorkToken/miner-source-final
 
 # install Ubuntu then run these commands
 
