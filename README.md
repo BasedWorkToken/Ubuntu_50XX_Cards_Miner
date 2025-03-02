@@ -24,7 +24,7 @@ Then do this script
 
 `sudo apt update`
 
-`sudo apt install -y dotnet-sdk-5.0`
+`sudo apt install -y dotnet-sdk-6.0`
 
 
 
@@ -77,7 +77,7 @@ Make it look like this
 
 Then conintue with the rest of the code
 
-`dotnet build SoliditySHA3Miner/SoliditySHA3Miner.csproj -f net5.0 -c Release -o miner`
+`dotnet build SoliditySHA3Miner/SoliditySHA3Miner.csproj -f net6.0 -c Release -o miner`
 
 `cd CudaSoliditySHA3Solver`
 
